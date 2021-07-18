@@ -1,0 +1,38 @@
+/*
+In this file only GLOBAL SASS File added & 
+LOCAL SCOPE SASS file added in that perticular LOCAL component or page.
+*/
+
+// SASS ABSTRACTS
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+// SASS BASE
+@import "base/animations";
+@import "base/base";
+@import "base/typography";
+@import "base/utilities";
+
+// SASS COMPONENTS
+@import "components/bg-video";
+@import "components/button";
+@import "components/card";
+@import "components/composition";
+@import "components/feature-box";
+@import "components/form";
+@import "components/story";
+
+// SASS LAYOUT
+@import "layout/grid";
+
+
+// SASS PAGES
+
+
+
+// SASS THEME
+
+
+
+// SASS VENDORS
